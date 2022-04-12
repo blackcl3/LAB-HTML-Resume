@@ -1,3 +1,27 @@
 body {
-  background-color: darkgoldenrod;
+  background-color: cyan; 
+}
+
+#technology-advice-article {
+  font-family: Helvetica, sans-serif; 
+  border: 5px red solid; 
+}
+
+#playmaker-health-article {
+  font-family: Didot, serif;
+  border: 2px palegoldenrod dotted; 
+}
+
+#frothy-monkey-article {
+  font-family: Andale Mono, monospace;
+  border: 3px yellow ridge; 
+}
+
+article > header {
+  color:darkblue; 
+}
+
+article {
+  margin: 10px; 
+  padding: 5px; 
 }
