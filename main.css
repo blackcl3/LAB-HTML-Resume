@@ -17,6 +17,11 @@ body {
   border: 3px yellow ridge; 
 }
 
+#side-effects-article {
+  font-family: 'Times New Roman', Times, serif;
+  border: 3px yellow solid; 
+}
+
 article > header {
   color:darkblue; 
 }
